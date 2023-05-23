@@ -1,0 +1,9 @@
+.btn2:hover{
+    background-color:rgb(224, 161, 233) ;
+    border: 1px solid white;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,33 @@
+.footer{
+    border-radius: 20px;
+    padding: 10px 20px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+    color: white;
+   
+    
+}
+.footbtn{
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px 15px;
+    background-color: rgb(204, 59, 204);
+    border: none;
+}
+.footbtn:hover{
+    background-color: skyblue;
+ 
+}
+.end{
+    background-color: rgb(15, 15, 59);
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+

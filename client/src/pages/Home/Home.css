@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.hero{
+    background: rgb(121,118,167);
+    background: linear-gradient(90deg, rgb(224, 161, 233) 0%, rgba(202,124,217,1) 75%);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    color: white;
+}
+.btn:hover {
+background-color:rgb(224, 161, 233) ;
+border: 1px solid white;
+}
